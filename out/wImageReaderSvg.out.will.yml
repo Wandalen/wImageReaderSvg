@@ -3,8 +3,8 @@ root:
   - wImageReaderSvg.out
 consistency:
   ../.ex.will.yml: &ref_0
-    hash: f1a048c1a45ce51075dc244c657d5649
-    size: 1702
+    hash: 01969b5633fd6acb0fddcf6f748bdfcb
+    size: 1703
   ../.im.will.yml: &ref_1
     hash: 4bd2ad8e081461ac0a9600e6aa2abea9
     size: 4662
@@ -1423,8 +1423,8 @@ module:
           - 'build::npm'
     consistency:
       ../.ex.will.yml:
-        hash: f1a048c1a45ce51075dc244c657d5649
-        size: 1702
+        hash: 01969b5633fd6acb0fddcf6f748bdfcb
+        size: 1703
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
