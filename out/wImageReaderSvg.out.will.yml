@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
-      wImageReaderSvg.out.will.yml:
-        hash: 9de3d3a573d19307a66d4838777d26fd
-        size: 36876
+      wImageReaderSvg.out.will.yml: *ref_0
